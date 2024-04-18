@@ -9,8 +9,8 @@
 5. Using the browser, verify that your solution is in your remote repo on GitHub.
 
 ## Description of the Problem
-## Make sure to test each function thoroughly! Code a little, test a little.
-## You may use built-in methods.
+**Make sure to test each function thoroughly! Code a little, test a little.
+You may use built-in methods.**
 
 1. What does the expression [1, 3, 5] === [1, 3, 5] evaluate to AND why?
 2. Write a function named `onlyOdd` that takes in an array of numbers and returns a new array consisting of only odd numbers.
